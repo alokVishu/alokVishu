@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning VUEJS 
+I'm currently learning VueJs 
 
 
 ## 🌐 Socials:
