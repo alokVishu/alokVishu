@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning VueJs 📗
+I'm currently learning NuxtJs 📗
 
 
 ## 🌐 Socials:
